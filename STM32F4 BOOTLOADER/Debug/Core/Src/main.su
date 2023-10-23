@@ -1,0 +1,7 @@
+../Core/Src/main.c:99:6:Bootloader_JumpToMainApp	32	static,ignoring_inline_asm
+../Core/Src/main.c:113:6:Bootloader_UpdateFirmware	1120	static
+../Core/Src/main.c:208:5:main	8	static
+../Core/Src/main.c:257:6:SystemClock_Config	88	static
+../Core/Src/main.c:304:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:337:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:482:6:Error_Handler	4	static,ignoring_inline_asm
