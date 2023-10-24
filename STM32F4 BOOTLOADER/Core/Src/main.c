@@ -69,9 +69,10 @@
 /* Private variables ---------------------------------------------------------*/
 
 UART_HandleTypeDef  huart1;
-#define HUART		&huart1			//Edit Your UART Here
 
 /* USER CODE BEGIN PV */
+
+#define HUART		&huart1			//Edit Your UART Here
 
 /* USER CODE END PV */
 
