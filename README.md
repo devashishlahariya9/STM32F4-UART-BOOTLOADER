@@ -3,7 +3,7 @@ A simple Bootloader and Bootloader utility to Flash Code on the MCU using the UA
 
 ## 1. Steps To Flash Bootloader:
 	1. Create a Project for Bootloader and give it a name of your choice.
-	2. In Bootloader Project enable your preferred UART for the Bootloader.
+	2. In Bootloader Project enable your preferred UART for the Bootloader and set Baud Rate to 115200.
 	3. Replace the main.c file with Bootloader's main.c file and edit the Macro to change the UART Peripheral.
 	4. Build The Project and Flash the Bootloader on your MCU.
 
