@@ -21,4 +21,5 @@ A simple Bootloader and Bootloader utility to Flash Code on the MCU using the UA
 	4. Press the Reset button on your MCU and hit enter on the terminal to start flashing the binary.
 
 **NOTE: The Bootloader will be in programming mode for only 1000ms by default, this can be changed by altering the "BOOTLOADER_WAITING_TICKS" macro in main.c**
+
 **NOTE: This Bootloader is specifically designed for the STM32F411E-DISCO Board and is not tested for any other boards, use at your own risk.**
